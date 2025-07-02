@@ -7,7 +7,7 @@ Qty,Component,Part/Value,Notes,Price(inc Shipping),Suggested Source
 2,Pull-up Resistors,4.7kΩ, 1/8WFor SDA and SCL lines,$0.2,Sourced Locally
 1,Series Resistor for DIN,330Ω,Between Nano D6 and LED DIN,-,Have it
 1,Filter Capacitor,1000 µF, 6.3V or higherAcross LED VCC & GND,-,Have it
-1,LiPo Battery,3.7V ,500–1000mAh,Power source,$3,Sourced Locally
+1,LiPo Battery,3.7V 500–1000mAh,Power source,$3,Sourced Locally
 1,NFC Antenna,Wire loop / PCB trace ~1–2 µH hand-wound or spiral on board,$1,Handmade
 1,Slide Switch (Power),SPDT,Main power control,-,Have it
 1,JST Connector,2-pin, (LiPo)For battery, plug-in,-,Have it
