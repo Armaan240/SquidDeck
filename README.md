@@ -13,6 +13,7 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(90).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(87).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(82).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(93).png)
 
 ## 📦 **Bill of Materials (BOM)**
 
