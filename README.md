@@ -11,9 +11,10 @@ Actually I have made it to bring it on undercity and and show to everyone also i
 Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project MAde Under 8 Hours
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(89).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(90).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(87).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(82).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(93).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(94).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(95).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(96).png)
+
 
 ## 📦 **Bill of Materials (BOM)**
 
