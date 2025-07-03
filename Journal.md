@@ -36,10 +36,10 @@ i quicky made a case for the Deck And The Umbrella And Also Decided to add NFC l
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(91).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(92).png)
 now it was time to finilze the pcb and add it to the model so Just check if everything was right but got little bit confused ,but being confident i move on with scheme that made yeseterday i quickly arranged the components to board and add some silkscreen to it to make it look good then Exported it as 3d modeland and added to the fusion make things arranged and put a lyer of glass and added umbrella on top, Just Iam Left With The Firmware Part to upload ,but i beilve in Testing First So Would test it The components first and Then Make Some Changes if required 
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(82).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(87).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(95).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(94).png))
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(89).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(93).png)
+![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(96).png)
 
 please let me know if there is somthing wrong in circuit , as i have not have that much experience with NFC CHips
 yeah i now the model is now more bigger in height and is changed, but trust me it is less than 1.8 cm in real as i have planed to make it edge to edge with the engraving tool and manually fix it and will add the usb port after manual and some  physical changes to the model as these things can be fixed by understandings things when there are in hand .
