@@ -1,4 +1,4 @@
-# SquidDeck
+# SquidDeck 
 this is project is made for highway and it is smart deck which acts an a clock also you can trigger animation in leds when a nfc tap is given ,
 it is inspired fromthe world famous seriers,.... yah you guess it right Squid Game as it is been in trending since it launch and and from the 3 season launched recently on netflix 
 
