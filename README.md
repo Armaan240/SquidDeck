@@ -28,7 +28,7 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 | 2   | Pull-up Resistors          | 4.7kΩ, 1/8W               | For SDA and SCL lines         |    $0.2      |     sourced locally              |
 | 1   | Series Resistor for DIN    | 330Ω                      | Between Nano D6 and LED DIN   |     -     |   have it          |
 | 1   | Filter Capacitor           | 1000 µF, 6.3V or higher   | Across LED VCC & GND          |    -     |      have it       |
-| 1   | LiPo Battery               | 3.7V 500–1000mAh          | Power source                   |   $3      |     Sourced Locally     |
+| 1   | Battery               | 9 V 500–1000mAh          | Power source                   |   $3      |     Sourced Locally     |
 | 1   | NFC Antenna                | Wire loop / PCB trace     | \~1–2 µH; hand-wound or spiral on board|  $1    |  handmade       |
 | 1   | Slide Switch (Power)       | SPDT                      | Main power control              |     -   |     have it          |
 | 1   | JST Connector              | 2-pin (LiPo)              | For battery plug-in              |   -    |    have it         |
