@@ -11,9 +11,10 @@ Actually I have made it to bring it on undercity and and show to everyone also i
 Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project MAde Under 8 Hours
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(89).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(90).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(94).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(95).png)
-![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(96).png)
+<img width="1197" height="513" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a03e8f08-05d9-4a25-bf6a-d663937c63eb" />
+<img width="828" height="596" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/4090429e-ed4b-409f-9b5c-22a53587eee5" />
+<img width="571" height="531" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/277310e3-59f4-4857-8204-2f0f4f48b616" />
+
 
 
 ## 📦 **Bill of Materials (BOM)**
@@ -27,13 +28,14 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 | 1   | 3.3V Regulator             | AMS1117-3.3 or equivalent | Powers NFC chip and pull-ups  |    $0.3      |    [BUY LINK]([AMS1117-3.3](https://robu.in/product/ams1117-3-3-slkor-70db120hz-1a-fixed-3-3v-positive-electrode-18v-sot-89-3-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/))      |
 | 2   | Pull-up Resistors          | 4.7kΩ, 1/8W               | For SDA and SCL lines         |    $0.2      |     sourced locally              |
 | 1   | Series Resistor for DIN    | 330Ω                      | Between Nano D6 and LED DIN   |     -     |   have it          |
-| 1   | Filter Capacitor           | 1000 µF, 6.3V or higher   | Across LED VCC & GND          |    -     |      have it       |
+| 1   | Filter Capacitor           | 220 µF, 6.3V or higher   | Across LED VCC & GND          |    -     |      have it       |
 | 1   | Battery               | 9 V 500–1000mAh          | Power source                   |   $3      |     Sourced Locally     |
 | 1   | NFC Antenna                | Wire loop / PCB trace     | \~1–2 µH; hand-wound or spiral on board|  $1    |  handmade       |
 | 1   | Slide Switch (Power)       | SPDT                      | Main power control              |     -   |     have it          |
 | 1   | JST Connector              | 2-pin (LiPo)              | For battery plug-in              |   -    |    have it         |
 | 1   | Micro USB Port             | For charging              | On TP4056 board                 |    -    |     have it          |
-| -   | PCB (custom round, \~60mm) | Circular 2-layer          | Your custom design               |    $10   | Seed Studio       |
+| 1   | BSS138BK             | For Level Shifting the Signals           |  -             |    -    |     have it          |
+| -   | PCB (custom round, \~60mm) | Circular 2-layer          | Your custom design               |    $10   | JLC       |
 
 
 
