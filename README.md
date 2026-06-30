@@ -29,21 +29,23 @@ https://github.com/user-attachments/assets/e0033781-631a-479b-ab4a-79f47e30254c
 | Qty | Component                  | Part/Value                | Notes                           | Price(inc Shipping)   | Suggested Source      |
 | --- | -------------------------- | ------------------------- | ---------------------------|------------ | --------------------- |
 | 1   | Arduino Nano               | ATmega328P (5V/16MHz)     | Main microcontroller          |     $3     | [BUY LINK](https://robu.in/product/arduino-nano-board-r3-with-ch340-chip-wo-usb-cable-solderedarduino-nano-r3-wo-usb-cable-soldered/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWe5m4OOkmR2LNtzIEoBUXSvU&gclid=CjwKCAjwsZPDBhBWEiwADuO6yw6JJ3JU634LgVe0-yi93Z_FVmzT61gwPTG-l0kZ5r9OSR2vN1FQ5xoChNYQAvD_BwE) |
-| 1   | NFC Chip                   | NT3H2111W0FT1X            | I²C + Field Detect NFC IC    | $1          |    [BUY LINK](https://www.arrow.com/en/products/nt3h2111w0fhkh/nxp-semiconductors?utm_source=google&utm_medium=cpc&utm_campaign=brand_g-pmax_product-feed_in_q1_2025&utm_content=apac_en&gad_source=1&gad_campaignid=20534936583&gbraid=0AAAAADFaomPckbFfZd3NQ-tgIt4w26QHF&gclid=CjwKCAjwsZPDBhBWEiwADuO6y0Z-YGp9IETI6SeR1XwWFN3RqCi52DX2vvzgK5XX7-oIvww11lwE7hoCDiUQAvD_BwE&gclsrc=aw.ds)         |
-| 1   | LED Strip                  | 24× WS2812B LEDs          | Individually addressable RGB   |     $5    |   [BUY LINK](https://www.electronicscomp.com/24-bit-ws2812-5050-rgb-led-built-in-full-color-driving-lights-circular-development-board?srsltid=AfmBOopHv9CPycDlo-qvJMQ06DFPkfF7PhE7R8qQ-_-dKPN-fcNRGsAnHpI)   |
+| 1   | NFC Chip                   | NT3H2111W0FT1X (SO8)      | I²C + Field Detect NFC IC, 50pF input cap | $1 | [BUY LINK](https://www.arrow.com/en/products/nt3h2111w0fhkh/nxp-semiconductors?utm_source=google&utm_medium=cpc&utm_campaign=brand_g-pmax_product-feed_in_q1_2025&utm_content=apac_en&gad_source=1&gad_campaignid=20534936583&gbraid=0AAAAADFaomPckbFfZd3NQ-tgIt4w26QHF&gclid=CjwKCAjwsZPDBhBWEiwADuO6y0Z-YGp9IETI6SeR1XwWFN3RqCi52DX2vvzgK5XX7-oIvww11lwE7hoCDiUQAvD_BwE&gclsrc=aw.ds) |
+| 1   | LED Ring                   | 24× WS2812B (86mm)        | Individually addressable RGB   |     $5    |   [BUY LINK](https://www.electronicscomp.com/24-bit-ws2812-5050-rgb-led-built-in-full-color-driving-lights-circular-development-board?srsltid=AfmBOopHv9CPycDlo-qvJMQ06DFPkfF7PhE7R8qQ-_-dKPN-fcNRGsAnHpI)   |
 | 1   | Charging Module            | TP4056 + Protection       | LiPo charging + 5V out        |      $1.5    |  [BUY LINK](https://www.amazon.in/Robotbanao-TP4056-Lithium-Battery-Charging/dp/B09PDS65FB)        |
-| 1   | 3.3V Regulator             | AMS1117-3.3 or equivalent | Powers NFC chip and pull-ups  |    $0.3      |    [BUY LINK]([AMS1117-3.3](https://robu.in/product/ams1117-3-3-slkor-70db120hz-1a-fixed-3-3v-positive-electrode-18v-sot-89-3-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/))      |
-| 2   | Pull-up Resistors          | 4.7kΩ, 1/8W               | For SDA and SCL lines         |    $0.2      |     sourced locally              |
-| 1   | Series Resistor for DIN    | 330Ω                      | Between Nano D6 and LED DIN   |     -     |   have it          |
-| 1   | Filter Capacitor           | 220 µF, 6.3V or higher   | Across LED VCC & GND          |    -     |      have it       |
-| 1   | Battery               | 9 V 500–1000mAh          | Power source                   |   $3      |     Sourced Locally     |
-| 1   | NFC Antenna                | Wire loop / PCB trace     | \~1–2 µH; hand-wound or spiral on board|  $1    |  handmade       |
+| 1   | 3.3V Regulator             | AMS1117-3.3               | Powers NFC chip + level-shifter LV side  |    $0.3      |    [BUY LINK](https://robu.in/product/ams1117-3-3-slkor-70db120hz-1a-fixed-3-3v-positive-electrode-18v-sot-89-3-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/)      |
+| 3   | Level Shifter MOSFETs      | BSS138BK (SOT-23)         | 5V↔3.3V on SDA, SCL, FD       |    $0.15  |     have it          |
+| 6   | Pull-up Resistors          | 4.7kΩ, 1/4W               | Two per level-shifter channel (double as I²C pull-ups) |    $0.2      |     sourced locally              |
+| 1   | Series Resistor for DIN    | 330Ω                      | Between Nano **D4** and LED DIN |     -     |   have it          |
+| 1   | Regulator Input Cap        | 10µF electrolytic         | AMS1117 input                  |    -     |      have it       |
+| 1   | Regulator Output Cap       | 22µF electrolytic         | AMS1117 output (stability)     |    -     |      have it       |
+| 1   | LED Filter Capacitor       | 220 µF, 6.3V or higher    | Across LED VCC & GND          |    -     |      have it       |
+| 1   | NFC VOUT Cap               | 150–220nF ceramic         | VOUT → GND (energy-harvest stability) |    -     |      have it       |
+| 1   | Battery                    | 5V 500–1000mAh           | Power source                   |   $3      |     Sourced Locally     |
+| 1   | NFC Antenna                | ~2.7µH coil, 13.56MHz     | Tuned to chip's 50pF; hand-wound / spiral |  $1    |  handmade       |
 | 1   | Slide Switch (Power)       | SPDT                      | Main power control              |     -   |     have it          |
 | 1   | JST Connector              | 2-pin (LiPo)              | For battery plug-in              |   -    |    have it         |
 | 1   | Micro USB Port             | For charging              | On TP4056 board                 |    -    |     have it          |
-| 1   | BSS138BK             | For Level Shifting the Signals           |  -             |    -    |     have it          |
-| -   | PCB (custom round, \~60mm) | Circular 2-layer          | Your custom design               |    $10   | JLC       |
+| -   | PCB (custom round, ~60mm)  | Circular 2-layer          | Your custom design               |    $10   | JLC       |
 
+## Grand Total ~ $25-27
 
-
-## Grand Total ~ $ 25-27
