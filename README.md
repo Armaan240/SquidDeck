@@ -17,7 +17,7 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 
 <img width="392" height="391" alt="mewww" src="https://github.com/user-attachments/assets/4d40abcd-377e-44e5-92c6-9454713155cf" />
 
-<img width="4284" height="5712" alt="IMG_4992" src="https://github.com/user-attachments/assets/988dafd9-4b0a-4c54-bc52-ddb6c5f9ce36" />
+<img width="400" height="400" alt="IMG_4992" src="https://github.com/user-attachments/assets/988dafd9-4b0a-4c54-bc52-ddb6c5f9ce36" />
 
 <img width="600" height="300" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a03e8f08-05d9-4a25-bf6a-d663937c63eb" />
 <img width="828" height="596" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/4090429e-ed4b-409f-9b5c-22a53587eee5" />
