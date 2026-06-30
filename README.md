@@ -12,13 +12,10 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(89).png)
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(90).png)
 
-https://github.com/user-attachments/assets/db025af1-a652-4afc-961f-726e0b8e76b2 
-
-https://github.com/user-attachments/assets/e0033781-631a-479b-ab4a-79f47e30254c
-
+<img width="400" height="711" alt="mew" src="https://github.com/user-attachments/assets/74cb9a47-4381-43d8-8cf9-159a7324c401" />
+<img width="392" height="391" alt="mewww" src="https://github.com/user-attachments/assets/4d40abcd-377e-44e5-92c6-9454713155cf" />
 
 <img width="4284" height="5712" alt="IMG_4992" src="https://github.com/user-attachments/assets/988dafd9-4b0a-4c54-bc52-ddb6c5f9ce36" />
-
 
 <img width="1197" height="513" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a03e8f08-05d9-4a25-bf6a-d663937c63eb" />
 <img width="828" height="596" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/4090429e-ed4b-409f-9b5c-22a53587eee5" />
