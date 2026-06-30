@@ -13,12 +13,13 @@ Here are some Picture Of the Project ,Please dont Hate it is a SpeedRun Project 
 
 ![](https://github.com/Armaan240/SquidDeck/blob/main/Images/Screenshot%20(90).png)
 
-<img width="400" height="711" alt="mew" src="https://github.com/user-attachments/assets/74cb9a47-4381-43d8-8cf9-159a7324c401" />
+<img width="392" height="391" alt="mew-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/2a8954dd-019f-40e5-a4e9-f87f744eb3a1" />
+
 <img width="392" height="391" alt="mewww" src="https://github.com/user-attachments/assets/4d40abcd-377e-44e5-92c6-9454713155cf" />
 
 <img width="4284" height="5712" alt="IMG_4992" src="https://github.com/user-attachments/assets/988dafd9-4b0a-4c54-bc52-ddb6c5f9ce36" />
 
-<img width="1197" height="513" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a03e8f08-05d9-4a25-bf6a-d663937c63eb" />
+<img width="600" height="300" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a03e8f08-05d9-4a25-bf6a-d663937c63eb" />
 <img width="828" height="596" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/4090429e-ed4b-409f-9b5c-22a53587eee5" />
 <img width="571" height="531" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/277310e3-59f4-4857-8204-2f0f4f48b616" />
 
